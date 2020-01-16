@@ -6,7 +6,7 @@
 * [Tools](#Tools)
 
 ## Project Description
-This project was carried out to learn how a linear regresion model can be used to predict continuos values. 
+This project was carried out to learn how a linear regression model can be used to predict continuos values. 
 
 ## Project Aim
 we are to explore a given dataset for an E-commerce company trying to figure out ways to improve sales. 
