@@ -13,5 +13,5 @@ we are to explore a given dataset for an E-commerce company trying to figure out
  
  ## Tools 
  
- * I worked with the jupyter notebook under the anaconda packag. using python 3.6.  
+ * I worked with the jupyter notebook under the anaconda package using python 3.6.  
  
