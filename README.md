@@ -1,5 +1,5 @@
 # Use of a simple Linear Regression Technique. 
-## By I.K Emmananuel
+## 
 
 * [Project Description](#ProjectDescription)
 * [Project Aim](#ProjectAim)
