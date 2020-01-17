@@ -1,4 +1,4 @@
-# Using The Linear Regression Technique. 
+# Use of a simple Linear Regression Technique. 
 ## By I.K Emmananuel
 
 * [Project Description](#ProjectDescription)
